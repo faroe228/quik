@@ -1,3 +1,9 @@
+```
+
+See https://github.com/faroe228/quik1/blob/master/README.md
+on how to modify quik to support .jsx files (useful for IDE support).
+
+```
 Quik
 ====
 A quick way to prototype and build apps with React and Babel with zero-setup.
